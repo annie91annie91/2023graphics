@@ -61,6 +61,7 @@ int main(int argc, char* argv[] )
     glutCreateWindow("week06");
 
     glutMotionFunc(motion);
+    glutMouseFunc(mouse);
     glutDisplayFunc(display);
     glutIdleFunc(display);
     glutMainLoop();
