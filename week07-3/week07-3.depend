@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1680164641 source:c:\users\administrator\desktop\week07\week07-3\main.cpp
+	<opencv/highgui.h>
+	<opencv/cv.h>
+	<GL/glut.h>
+
