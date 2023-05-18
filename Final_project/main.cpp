@@ -37,7 +37,7 @@ void display()
     glPushMatrix();
         glScalef(0.3,0.3,0.3);///week13_step02-3
         glPushMatrix();///week13_step03-2
-            glTranslatef(teapotX,teapotY,0);///week13_step03-2
+            //glTranslatef(teapotX,teapotY,0);///week13_step03-2
 
             if(ID==0) glColor3f(1,0,0); ///week14_step03-1
             else glColor3f(1,1,1); ///week14_step03-1
